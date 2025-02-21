@@ -9,3 +9,5 @@ T
 $deployments/default.simnet-plan.yaml,6/9/69a1a25a878ebb83f71a85e268e7aeee4705af03
 R
 "contracts/resource-allocation.clar,b/8/b894c2e4e1f74c4841d3bb7e04dab1a5e317892f
+R
+"contracts/result-verification.clar,6/6/669436556024d4f6acf3afdf263f4bc6197da65e
