@@ -11,3 +11,5 @@ R
 "contracts/resource-allocation.clar,b/8/b894c2e4e1f74c4841d3bb7e04dab1a5e317892f
 R
 "contracts/result-verification.clar,6/6/669436556024d4f6acf3afdf263f4bc6197da65e
+Q
+!tests/result-verification.test.ts,8/0/806e05bc0e188f74c98daecbc68b58ef3fe984a4

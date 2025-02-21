@@ -54,4 +54,14 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/job-submission.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: resource-allocation
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/resource-allocation.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: result-verification
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/result-verification.clar
+            clarity-version: 2
       epoch: "2.5"
